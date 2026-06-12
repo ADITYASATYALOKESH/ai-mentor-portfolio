@@ -102,3 +102,29 @@ Confirmed. NIET officially states "more than 3,100 job offers" in the academic y
 **Primary Sources:**
 1. https://www.niet.co.in/placement/placement-records (NIET – Placement Records)  
 2. https://niet.co.in/placement/overview (NIET – Placement Overview)
+
+---
+
+## Step 3 — Open the primary source
+
+
+| Verdict | Count | Percentage |
+|---------|-------|------------|
+| VERIFIED | 3 | 60% |
+| PARTIAL | 1 | 20% |
+| FALSE | 0 | 0% |
+| NO PRIMARY SOURCE FOUND | 1 | 20% |
+
+# Step 4 — Verdict Per Claim
+
+| # | Claim | Verdict |
+|---|-------|---------|
+| 1 | TIET Avg Package ₹11,55,862 (2025–2026) | NO PRIMARY SOURCE FOUND |
+| 2 | IIIT Delhi Placement Rate 89.64% (2025–2026) | VERIFIED |
+| 3 | IIIT Hyderabad CSE Avg CTC ₹32,00,000 (2025–2026) | PARTIAL |
+| 4 | CEG EEE Placement Rate 98% (2025–2026) | VERIFIED |
+| 5 | NIET 3,100+ Job Offers (2025–2026) | VERIFIED |
+
+# Step 5 — Reflection Paragraph
+
+The claim that looked most authoritative but was actually weakest was claim #1: "The average placement package at Thapar Institute of Engineering and Technology (TIET) for 2025–2026 was ₹11,55,862." Gemini cited the TIET Official Placement Tracker confidently, and Perplexity initially confirmed it with two official-looking URLs. But when I opened the primary URL (https://placements25-26.vercel.app), I found that the exact figure ₹11,55,862 was not visible in the page content, and most authoritative aggregator sources cited ₹11.38 LPA or ₹12.00 LPA instead. The lesson: confidence does not equal correctness. The verification step belongs to the human — every time.
